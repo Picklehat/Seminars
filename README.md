@@ -1,2 +1,2 @@
 # Seminars
-test1
+test
